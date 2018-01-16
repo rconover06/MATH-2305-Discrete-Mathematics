@@ -1,7 +1,8 @@
 # MATH-2305-Discrete-Mathmatics
 
 **Textbook:** *Discrete Mathematics and its Applications*, seventh edition, Kenneth H. Rosen,
- McGraw-Hill, 2012. 
+ McGraw-Hill, 2012.
+ 
  **ISBN:** 978-0-07-338309-5.
 
 ## Spring 2018 Schedule
