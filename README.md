@@ -1,1 +1,1 @@
-# MATH-2305---Discrete-Mathmatics
+# MATH-2305-Discrete-Mathmatics
